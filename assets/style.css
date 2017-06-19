@@ -1,6 +1,31 @@
-.header
-.nav
-.section
-.article{
-	background: #ebebeb
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body{
+	background-color: #777;
+	width: 960px;
+	margin: 0 auto;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size-adjust: 18px;
+}
+
+}
+header{
+	background-color: white;
+	color: grey;	
+	height: 75px;
+	padding-top: 2px;
+	margin-top: 5px;
+	font-size: 12px;
+
+}
+nav{
+	background-color: white;
+	color: grey;	
+	height: 75px;
+	padding-top: 2px;
+	margin-top: 5px;
+	font-size: 18px;
 }
